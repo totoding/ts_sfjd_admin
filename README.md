@@ -1,29 +1,5 @@
-# admin
+### sfjd 后台管理客户端
 
-## Project setup
-```
-npm install
-```
+> vue3 全家桶 typescript
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2021 11 30 搭建项目 user类
